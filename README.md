@@ -1,1 +1,1 @@
-A ToDo list web app completely made with HTMLL5
+A ToDo list web app completely made with HTML5
